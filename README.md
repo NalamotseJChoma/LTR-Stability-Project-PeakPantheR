@@ -66,4 +66,5 @@ To better compare the RSDs across projects for each feature, a bar plot was gene
 
 The figure below shows the trend between paired projects, illustrating the proportion of features with increasing or decreasing RSD. Blue bars represent cases where RSD decreased between the two projects (i.e., features became more stable), while red bars represent cases where RSD increased (i.e., features became less stable). A taller blue bar indicates greater stability across most features, as observed between Airwave and Airwave2 as well as Sessa and Poppy. Conversely, a taller red bar indicates reduced stability, as seen between Airwave2 and Finger.
 
-<img width="1915" height="313" alt="image" src="https://github.com/user-attachments/assets/77873ad6-00b1-4add-bbb5-1bed1a75edc6" />
+
+![RSD change trend](https://github.com/NalamotseJChoma/LTR-Stability-Project-PeakPantheR/blob/main/Plots/RSD_changeTrend_PPR.png)
