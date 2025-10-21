@@ -50,6 +50,9 @@ To assess the stability of the 25 common features, the relative standard deviati
 
 <img width="1264" height="501" alt="image" src="https://github.com/user-attachments/assets/cf16c3e4-d579-4dc7-9e95-b7c33590d7e7" />
 
+
+<img width="1109" height="673" alt="image" src="https://github.com/user-attachments/assets/7ee6183f-bf27-473a-83e7-9722abc7764a" />
+
 ### Upset plot
 
 To visualise the overlap of stable features across projects, an UpSet plot was generated (shown below). Of the 25 common features, 20 were stable in Airwave, while all 25 were stable in the other projects. As a result, the plot highlights 20 stable features shared across all projects, with only 5 features overlapping among the remaining projects (excluding Airwave).
