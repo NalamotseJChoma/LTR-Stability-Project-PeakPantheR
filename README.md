@@ -36,6 +36,7 @@ Common features across all subsequent projects and those shared between pairs of
 ### Principal Component Analysis
 
 <img width="1133" height="596" alt="image" src="https://github.com/user-attachments/assets/06f5a06d-ed3c-4f8a-9811-2716d6b64433" />
+<img width="1166" height="607" alt="image" src="https://github.com/user-attachments/assets/cce55cb7-22c3-48d8-8329-9b5c991ca992" />
 
 ### PC 1 Loadings
 <img width="1197" height="580" alt="image" src="https://github.com/user-attachments/assets/c3313902-8772-4489-bc68-11e8cf0c7d78" />
